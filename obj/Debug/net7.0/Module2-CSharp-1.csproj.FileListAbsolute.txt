@@ -1,0 +1,15 @@
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\bin\Debug\net7.0\Module2-CSharp-1.exe
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\bin\Debug\net7.0\Module2-CSharp-1.deps.json
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\bin\Debug\net7.0\Module2-CSharp-1.runtimeconfig.json
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\bin\Debug\net7.0\Module2-CSharp-1.dll
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\bin\Debug\net7.0\Module2-CSharp-1.pdb
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.csproj.AssemblyReference.cache
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.AssemblyInfoInputs.cache
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.AssemblyInfo.cs
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.csproj.CoreCompileInputs.cache
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.dll
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\refint\Module2-CSharp-1.dll
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.pdb
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\Module2-CSharp-1.genruntimeconfig.cache
+C:\Users\dpatt\Documents\GitHub\Module2-CSharp\obj\Debug\net7.0\ref\Module2-CSharp-1.dll
